@@ -1,0 +1,86 @@
+body{
+    margin: 0px;
+    font-family: sans-serif;
+}
+header{
+    
+    background-color: #b1e1a2;
+    display: flex;
+    justify-content: center;  
+}
+/* .menu{
+    width: auto;
+    justify-content: right;
+} */
+a{
+   margin: 30px;
+   text-decoration: none;
+   color: #292f46;
+}
+.usual{
+    margin: 0;
+}
+h1,h2,h3,h4{  
+    margin-right: 20px;
+    color: #292f46;
+    text-align: center;
+}
+img{
+    width: 80px;
+}
+.top{
+    margin: 0px;
+    background-image: url(https://img.freepik.com/free-photo/spring-floral-border-background-in-green-with-leaf-watercolor-illustration_53876-126807.jpg?w=1060&t=st=1669196937~exp=1669197537~hmac=cead4f3788ebcac914cdf92f56ce4d0493f8d4c0e9599f8e2dbec0f5b04e3ded);
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+    align-items: center;
+    display: block;
+    align-items: center;
+}
+.bottom{
+    display: inline-block;
+    justify-content: center;
+    background-size: cover;
+    text-align: center;
+    align-items: center;
+    display: block;
+    /* height: 50px;
+    flex-wrap: nowrap; */
+}
+.left,.right{
+    width: 400px;
+    display: inline-block;
+    margin-right: 30px;
+    
+}
+.common{ 
+    display: inline-block;   
+}
+.footer{
+    background-color: #b1e1a2;
+    display: flex;
+    justify-content: center;
+}
+.end{
+    margin-left: 50px;
+    color: #292f46;
+}
+.top_header{
+    margin: 0px;
+    color: #292f46;
+    text-align: center;
+    margin-bottom: 20px;
+    padding: 50px;
+}
+.text{
+    margin: 20px 200px;
+}
+button{
+    width: 200px;
+    height: 50px;
+    background-color: #b1e1a2;
+    border-radius: 5px;
+    margin: 20px;
+    border: #b1e1a2;
+}
